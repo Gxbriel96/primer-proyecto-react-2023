@@ -1,0 +1,13 @@
+.cripto{
+    border: 1px solid #b5b3b3;
+    border-radius: 5px;
+    padding: 0.75rem 0;
+}
+
+.positivo{
+    color: greenyellow;
+}
+
+.negativo {
+    color: red;
+}

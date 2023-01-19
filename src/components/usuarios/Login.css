@@ -1,0 +1,42 @@
+
+.login-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem;
+    border: 1px solid skyblue;
+    border-radius: 5px;
+    max-width:20rem;
+    height: 20rem;
+    box-shadow: 0 0 6px 0.1rem skyblue;
+    margin: auto;
+    transition: all .25s;
+   
+}
+
+.field input {
+    outline: none;
+    border-radius: 5px;
+    border: 1px solid gray;
+    height: 2rem;
+    width: 14rem;
+    background: none;
+    padding: .5rem;
+    color: white;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+}
+.submit input{
+    height: 2rem;
+    width: 6rem;
+    border: none;
+    border: 1px solid skyblue;
+    border-radius: 5px;
+    background-color: aliceblue;
+    
+}
